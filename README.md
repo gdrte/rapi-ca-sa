@@ -70,3 +70,4 @@ Please note, the *location* must end with '/'
    "selfSigned": true
  }'
  and so on ......
+ Note: These API's are based on the freely available Bouncycastle api documentation. https://www.bouncycastle.org/java.html
